@@ -61,7 +61,7 @@ header.masthead {
   padding-bottom: 7rem;
   background: -webkit-gradient(linear, left bottom, left top, from(#ff6a00), to(#e67817));
   background: linear-gradient(0deg, #ff6a00 0%, #e67817 100%);
-  background-image: url('/img/phoicanh.jpg');
+  background-image: url('../img/phoicanh.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
